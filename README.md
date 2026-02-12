@@ -1,7 +1,6 @@
 ### Something about me ?  &emsp; (•ᴗ•,, )
 
-Maybe I'll be 10x engineer, maybe top kaggler, maybe both, maybe neither.
-
+Maybe I'll be 10x engineer, maybe top kaggler, maybe both, maybe neither.<br/>
 But I do write, and document my journey [here](https://arthamna.is-a.dev/writings)
 
 <!--
