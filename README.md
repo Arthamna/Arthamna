@@ -7,7 +7,7 @@ But I do write, and document my journey [here](https://arthamna.is-a.dev/writing
 
 ---
 
-#### Statistic
+#### Statistic, btw
 
 <div align="center">
   <!-- <img height="160" src="https://github-stats-extended.vercel.app/api?username=Arthamna&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" /> -->
