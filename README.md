@@ -1,10 +1,10 @@
 
-### Something about me ? &emsp; (•ᴗ•,, )
+### Hello! &emsp; (•ᴗ•,, )
 
 Maybe I'll be 10x engineer, maybe top kaggler, maybe both, maybe neither.  
-But I do write, and document my journey [here](https://arthamna.is-a.dev/writings).
+But I write, document my [journey](https://arthamna.is-a.dev/writings), and build a bit of [everything](https://arthamna.is-a.dev/projects)
 
-<sub>I also have a special GitHub for my agent, [canisii](https://github.com/canisii).</sub>
+<sub>I also have a special GitHub for my agent, [canisii](https://github.com/canisii)</sub>
 
 ---
 
