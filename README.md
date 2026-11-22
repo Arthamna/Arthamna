@@ -26,7 +26,7 @@ But I write, document my [journey](https://arthamna.is-a.dev/writings), and buil
 </table>
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=Arthamna&color=gray)
+![Profile views](https://komarev.com/ghpvc/?username=Arthamna&color=yellow)
 ![GitHub streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=github&logoColor=fff&color=orange&label=current%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DArthamna%26type%3Djson)
 ![Total Contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=github&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DArthamna%26type%3Djson)
 
